@@ -1,1 +1,1 @@
-import remote2.com
+import local.com
